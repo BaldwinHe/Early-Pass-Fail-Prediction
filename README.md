@@ -1,6 +1,7 @@
 > 使用说明：
 1. 使`data_?.csv`与`finetune.ipynb`在同一目录下
-2. [下载](http://49.235.211.79/data/finetune.ipynb.zip)并解压finetune.ipynb，在finetune.ipynb中调整参数
+2. 下载finetune.ipynb，在finetune.ipynb中调整参数
+3. 将参数调整后的finetune.ipynb|结果, 上传
 
 ##仅使用studentInfo和课程概要信息①
 1. 结果(未调参)
